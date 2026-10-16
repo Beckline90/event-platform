@@ -1,6 +1,3 @@
 <Solution>
-  <Project Path="EventPlatform.API/EventPlatform.Api.csproj" />
-  <Project Path="EventPlatform.Domain/EventPlatform.Domain.csproj" />
-  <Project Path="EventPlatform.Infrastructure/EventPlatform.Infrastructure.csproj" />
-  <Project Path="EventPlatform.Tests/EventPlatform.Tests.csproj" />
+  <Project Path="EventPLatform.WebApi.csproj" />
 </Solution>
